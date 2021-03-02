@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=dsamuel32&countColorcountColor)
 
 ### Languages & Tools 🛠  
@@ -8,6 +6,7 @@
 ![Kotlin](https://img.shields.io/badge/-Java-05122A?style=flat&logo=kotlin)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Java-05122A?style=flat&logo=angular)&nbsp;
+![Typescript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=typescript)&nbsp;
 ![Android](https://img.shields.io/badge/-Java-05122A?style=flat&logo=android)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
