@@ -6,7 +6,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Java-05122A?style=flat&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javascript)&nbsp
+![JavaScript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javascript)&nbsp;
+![Angular](https://img.shields.io/badge/-Java-05122A?style=flat&logo=angular)&nbsp;
+![Android](https://img.shields.io/badge/-Java-05122A?style=flat&logo=android)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
