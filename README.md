@@ -6,11 +6,9 @@
 ![Angular](https://img.shields.io/badge/-Java-05122A?style=flat&logo=angular)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=typescript)&nbsp;
 ![Android](https://img.shields.io/badge/-Java-05122A?style=flat&logo=android)&nbsp;
-
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
