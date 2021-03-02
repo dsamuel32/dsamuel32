@@ -19,11 +19,10 @@
 
 ### Analytics ⚙️ ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=dsamuel32&countColorcountColor)
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsamuel32&layout=compact&count_private=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dsamuel32&count_private=true&show_icons=true)&nbsp;
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dsamuel32&hide_border=true)&nbsp;
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dsamuel32&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dsamuel32&hide_border=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsamuel32&layout=compact&count_private=true)&nbsp;
 
 ### Let's connect? 🤝
 
