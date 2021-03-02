@@ -1,5 +1,3 @@
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=dsamuel32&countColorcountColor)
-
 ### Languages & Tools 🛠  
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
@@ -20,7 +18,8 @@
 
 
 
-### Analytics ⚙️
+
+### Analytics ⚙️ ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=dsamuel32&countColorcountColor)
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsamuel32&layout=compact&count_private=true)
 
