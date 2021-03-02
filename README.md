@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
-
-
-My name is Tiago Daniel Ferreira. I work as a Developer at Zup Innovation.
-This is my personal <a href="https://tiago-ferreira.github.io/">page.</a>
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=tiago-ferreira&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=dsamuel32&countColorcountColor)
 
 ### Languages & Tools 🛠  
 
