@@ -1,11 +1,11 @@
 ### Languages & Tools 🛠  
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Java-05122A?style=flat&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Java-05122A?style=flat&logo=angular)&nbsp;
-![Typescript](https://img.shields.io/badge/-Java-05122A?style=flat&logo=typescript)&nbsp;
-![Android](https://img.shields.io/badge/-Java-05122A?style=flat&logo=android)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
